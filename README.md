@@ -12,7 +12,7 @@ The study commences with a background discussion on previous research papers, th
 #### 0_London_House_Prices_Baseline
 Primary file with visualisations, spatial diagnostics, OLS regression and spatial Hedonic modelling for baseline case study  
   
-**1_Log_Dist_School:** Spatial Hedonic modelling including distance to any schools  
+**1_Log_Dist_School:** Spatial Hedonic modelling including distance to any type of school  
 **2_Log_Dist_Of1:** Spatial Hedonic modelling including distance to schools with OFSTED 1 rating  
 **3_Log_Dist_Of12:** Spatial Hedonic modelling including distance to schools with OFSTED 1 or 2 rating  
 **4_Log_Dist_Prim12:** Spatial Hedonic modelling including distance to Primary schools with OFSTED 1 or 2 rating  
