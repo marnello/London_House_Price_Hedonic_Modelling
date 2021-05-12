@@ -4,7 +4,7 @@ Report on the effect school types have on housing prices in London.
 
 ## Jupyter Notebook Files
 #### 0_London_House_Prices_Baseline
-Primary file with visualisations, spatial diagnostics, OLS and spatial Hedonic modelling for baseline case study  
+Primary file with visualisations, spatial diagnostics, OLS regression and spatial Hedonic modelling for baseline case study  
 #### 1_Log_Dist_School
 Spatial Hedonic modelling including distance to any schools  
 #### 2_Log_Dist_Of1
