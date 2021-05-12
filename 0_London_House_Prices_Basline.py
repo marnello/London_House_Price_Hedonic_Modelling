@@ -298,15 +298,6 @@ aT.adjust_text(texts, force_points=0.7, force_text=0.8, expand_points=(1,1), exp
 
 base_names = variable_names
 dist_names = variable_names
-# + ['Dist_School']
-# + ['Dist_AcSponsor']
-# + ['Dist_FSM']
-# + ['Dist_Priv']
-# + ['Dist_Of1']
-# + ['Dist_Of12']
-# + ['Dist_Prim12']
-# + ['Dist_Sec12']
-# + ['Dist_VAS']
 
 # + ['Log_Dist_School']
 # + ['Log_Dist_AcSponsor']
@@ -443,31 +434,9 @@ m7hack = spreg.GM_Error_Het(hphack[['logprice']].values, hphack[dist_names].valu
 print(m7hack.summary)
 
 
-# In[ ]:
 
 
 
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
 
 
 
@@ -723,34 +692,4 @@ for x, y, label in zip(lb_points.geometry.x, lb_points.geometry.y, lb_points["NA
     
 aT.adjust_text(texts, force_points=0.7, force_text=0.8, expand_points=(1,1), expand_text=(1,1), 
                arrowprops=dict(arrowstyle="-", color='grey', lw=0.5))
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
 
