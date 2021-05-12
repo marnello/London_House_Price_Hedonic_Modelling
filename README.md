@@ -3,8 +3,12 @@ Report on the effect school types have on housing prices in London.
 
 
 ## Jupyter Notebook Files
-- 0_London_House_Prices_Baseline - primary file with visualisations, spatial diagnostics, OLS and spatial regression for baseline case study
-- 1_Log_Dist_School - spatial regression including distance to any schools
+### 0_London_House_Prices_Baseline
+Primary file with visualisations, spatial diagnostics, OLS and spatial regression for baseline case study  
+  
+### 1_Log_Dist_School
+Spatial regression including distance to any schools  
+  
 - 2_Log_Dist_Of1 - spatial regression including distance to schools with OFSTED 1 rating
 - 3_Log_Dist_Of12 - spatial regression including distance to schools with OFSTED 1 or 2 rating
 - 4_Log_Dist_Prim12 - spatial regression including distance to Primary schools with OFSTED 1 or 2 rating
