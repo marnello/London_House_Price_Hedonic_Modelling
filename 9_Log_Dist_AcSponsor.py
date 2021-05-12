@@ -289,14 +289,6 @@ m7hack = spreg.GM_Error_Het(hphack[['logprice']].values, hphack[dist_names].valu
 print(m7hack.summary)
 
 
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
 
 
 
