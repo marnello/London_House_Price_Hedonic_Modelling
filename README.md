@@ -1,5 +1,6 @@
 # London House Price Spatial Hedonic Modelling
 Report on the effect school types have on housing prices in London.
+[London_Housing_Prices_Report.pdf](https://github.com/marnello/London_House_Price_Hedonic_Modelling/files/6472028/London_Housing_Prices_Report.pdf)
 
 ## INTRODUCTION
 
@@ -23,7 +24,7 @@ Primary file with visualisations, spatial diagnostics, OLS regression and spatia
 **9_Log_Dist_AcSponsor:** Spatial Hedonic modelling including distance to Academy Sponsor schools  
 **Distance_Calculations:** Calculating distances between each indiviudal house point and different types of schools  
   
-[London_Housing_Prices_Report.pdf](https://github.com/marnello/London_House_Price_Hedonic_Modelling/files/6472028/London_Housing_Prices_Report.pdf)
+
  
 
 
