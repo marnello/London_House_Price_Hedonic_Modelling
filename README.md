@@ -21,6 +21,10 @@ Primary file with visualisations, spatial diagnostics, OLS regression and spatia
 **7_Log_Dist_VAS:** Spatial Hedonic modelling including distance to Voluntary Aided (Religious) schools  
 **8_Log_Dist_FSM:** Spatial Hedonic modelling including distance to schools with >30% free school meals  
 **9_Log_Dist_AcSponsor:** Spatial Hedonic modelling including distance to Academy Sponsor schools  
+**Distance_Calculations:** Calculating distances between each indiviudal house point and different types of schools  
+  
+[London_Housing_Prices_Report.pdf](https://github.com/marnello/London_House_Price_Hedonic_Modelling/files/6472028/London_Housing_Prices_Report.pdf)
+ 
 
 
 
