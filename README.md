@@ -24,6 +24,7 @@ Primary file with visualisations, spatial diagnostics, OLS regression and spatia
 **9_Log_Dist_AcSponsor:** Spatial Hedonic modelling including distance to Academy Sponsor schools  
 **Distance_Calculations:** Calculating distances between each indiviudal house point and different types of schools  
   
+If there are any issues loading the Jupyter notebooks in Github, they can be viewed by copying and pasting the Github link to http://nbviewer.jupyter.org/
 
  
 
