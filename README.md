@@ -1,6 +1,7 @@
 # London House Price Spatial Hedonic Modelling
 Report on the effect school types have on housing prices in London  
-[London_Housing_Prices_Report.pdf](https://github.com/marnello/London_House_Price_Hedonic_Modelling/files/6472028/London_Housing_Prices_Report.pdf)  
+[London_House_Price_Report.pdf](https://github.com/marnello/London_House_Price_Hedonic_Modelling/files/6487800/London_House_Price_Report.pdf)
+
   
 ## INTRODUCTION
 
